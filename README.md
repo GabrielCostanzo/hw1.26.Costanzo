@@ -1,4 +1,4 @@
-# Interactive-office-building-interface
+# Interactive office building elevator interface
 Homework #1 for Human Computer Interaction CS3366
 
 The standard design for elevator interfaces often disregards security and does not guide user interaction in an efficient manner.
