@@ -137,7 +137,6 @@ void draw()
   }
   if (floor_two_selected_animation == true && flash_count < 11)
   {
-    print("!!!!", flash_count);
     if (flash_count % 2 == 1)
     {
     image(floor_two_arrow,0,0);
